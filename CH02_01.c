@@ -14,7 +14,7 @@ int main()
       printf("-------------------------\n");
       printf("5位學生的總分:%d\n", Total_Score);  
      /* 輸出成績總分 */
-     
+     printf("aaaaaa\n");
      system("pause");
      return 0;
 }
